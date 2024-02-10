@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm MiMochi👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=5500&pause=1000&color=F7BB82&width=435&lines=cats+and+crypto" alt="Typing SVG" /></a>
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
